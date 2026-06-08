@@ -1,0 +1,15 @@
+body{
+ background-color: mediumvioletred;
+ text-align: center;
+}
+h1 {
+    font-style: italic;
+    color: black;
+    font-size: larger;
+}
+h2 {
+    color: black;
+    font-weight: 200;
+}
+
+.imagem {}
