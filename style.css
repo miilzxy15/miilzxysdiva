@@ -4,11 +4,15 @@ body{
 }
 h1 {
     font-style: italic;
-    color: deepskyblue;
+    color: dodgerblue;
     font-size: larger;
 }
 h2 {
-    color: deepskyblue;
+    color: dodgerblue;
+    font-weight: 200;
+}
+h3 {
+    color: dodgerblue;
     font-weight: 200;
 }
 
