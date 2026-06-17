@@ -1,15 +1,24 @@
 body{
- background-color: mediumvioletred;
+ background-color: cornflowerblue;
  text-align: center;
 }
 h1 {
     font-style: italic;
-    color: black;
+    color: deepskyblue;
     font-size: larger;
 }
 h2 {
-    color: black;
+    color: deepskyblue;
     font-weight: 200;
 }
 
-.imagem {}
+.imagem {
+
+}
+.lista {
+    text-align: left;
+    color: deepskyblue;
+}
+.pizza {
+    color: deepskyblue;
+}
