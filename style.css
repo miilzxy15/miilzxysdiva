@@ -4,15 +4,15 @@ body{
 }
 h1 {
     font-style: italic;
-    color: dodgerblue;
+    color: royalblue;
     font-size: larger;
 }
 h2 {
-    color: dodgerblue;
+    color: royalblue;
     font-weight: 200;
 }
 h3 {
-    color: dodgerblue;
+    color: royalblue;
     font-weight: 200;
 }
 
@@ -21,8 +21,8 @@ h3 {
 }
 .lista {
     text-align: left;
-    color: deepskyblue;
+    color: royalblue;
 }
 .pizza {
-    color: deepskyblue;
+    color: royalblue;
 }
