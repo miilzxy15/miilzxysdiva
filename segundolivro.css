@@ -1,0 +1,28 @@
+body{
+ background-color: orangered;
+ text-align: center;
+}
+h1 {
+    font-style: italic;
+    color: chocolate;
+    font-size: larger;
+}
+h2 {
+    color: chocolate;
+    font-weight: 200;
+}
+h3 {
+    color: chocolate;
+    font-weight: 200;
+}
+
+.imagem {
+
+}
+.lista {
+    text-align: left;
+    color: chocolate;
+}
+.pizza {
+    color: chocolate;
+}
