@@ -1,18 +1,18 @@
 body{
- background-color: coral;
+ background-color: sandybrown;
  text-align: center;
 }
 h1 {
     font-style: italic;
-    color: sandybrown;
+    color: chocolate;
     font-size: larger;
 }
 h2 {
-    color: sandybrown;
+    color: chocolate;
     font-weight: 200;
 }
 h3 {
-    color: sandybrown;
+    color: chocolate;
     font-weight: 200;
 }
 
@@ -21,8 +21,8 @@ h3 {
 }
 .lista {
     text-align: left;
-    color: sandybrown;
+    color: chocolate;
 }
 .pizza {
-    color: sandybrown;
+    color: chocolate;
 }
