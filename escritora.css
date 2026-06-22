@@ -1,28 +1,27 @@
 body{
- background-color: khaki;
- text-align: center;
+    background-color: khaki;
+    text-align: center;
 }
-h1 {
+h1{
     font-style: italic;
     color: goldenrod;
     font-size: larger;
 }
-h2 {
+h2{
     color: goldenrod;
     font-weight: 200;
 }
-h3 {
+h3{
     color: goldenrod;
     font-weight: 200;
 }
-
-.imagem {
+.imagem{
 
 }
-.lista {
+.lista{
     text-align: left;
     color: goldenrod;
 }
-.pizza {
+.pizza{
     color: goldenrod;
 }
