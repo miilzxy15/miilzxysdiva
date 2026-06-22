@@ -15,8 +15,11 @@ h3{
     color: goldenrod;
     font-weight: 200;
 }
-.imagem{
-
+.chloe {
+    width: 25%;
+}
+.livros {
+    width: 25%;
 }
 .lista{
     text-align: left;
