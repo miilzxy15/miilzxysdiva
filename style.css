@@ -15,7 +15,10 @@ h3 {
     color: royalblue;
     font-weight: 200;
 }
-.imagem {
+.binding {
+    width: 70%;
+}
+.casal {
     width: 70%;
 }
 .lista {
