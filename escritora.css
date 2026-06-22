@@ -1,11 +1,11 @@
 body{
     background-color: khaki;
     text-align: center;
-    font-size: larger;
 }
 h1{
+    font-style: italic;
     color: goldenrod;
-    font-weight: 200;
+    font-size: larger;
 }
 h2{
     color: goldenrod;
